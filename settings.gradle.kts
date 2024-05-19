@@ -1,1 +1,1 @@
-rootProject.name = "io.github.daniveler.employees-api-kotlin"
+rootProject.name = "com.github.daniveler.employees-api-kotlin"
